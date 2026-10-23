@@ -48,3 +48,4 @@ Sube la foto a `reports/` en el bucket de S3, guarda el registro con `photoUrl` 
 ### GET /reports
 Regresa la lista de reportes registrados con `photoUrl` y `repairPhotoUrl`.
   
+  
